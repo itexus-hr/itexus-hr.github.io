@@ -1,7 +1,7 @@
 ---
 title: ".Net Developer"
 layout: post
-description: "В компанию нужен .Net разработчика!"
+description: "В компанию нужен .Net разработчик."
 redirect_from: ["/2017/04/16/junior_net_position.html"]
 
 ---
