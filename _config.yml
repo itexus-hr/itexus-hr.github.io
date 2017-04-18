@@ -1,0 +1,34 @@
+# For Atom Feed
+domain: blog.itexus.com
+author: Itexus Team
+email: info@itexus.com
+title: Itexus Company Blog
+
+# standard jekyll configuration
+
+lsi: false
+#permalink: /:title
+# Since GH pages override this to "true", we test this value to see if we are running locally
+safe: false
+include: [".well-known"]
+highlighter: rouge
+gems:
+  - jekyll-redirect-from
+  - kramdown
+  - jekyll-feed
+  - jekyll-sitemap
+  - jemoji
+exclude:
+- bin
+- config.rb
+- Gemfile
+- Gemfile.lock
+- gems
+- Procfile
+- Rakefile
+- README.md
+- script
+- vendor
+
+# Custom site configuration
+lang: en
