@@ -2,20 +2,20 @@
 title: "Junior Ruby on Rails Developer"
 layout: post
 description: "Itexus ищет талантливого Ruby on Rails разработчика!"
-redirect_from: ["/2016/03/16/junior_ror_position.html"]
+redirect_from: ["/2017/04/16/junior_ror_position.html"]
 
 ---
 **Нам важно, чтобы у Вас было:**
 
-- Опыт коммерческой разработки на Ruby и Ruby on Rails (желательно)
+- Владение Ruby и Ruby on Rails
 - Хорошее знание и понимание принципов ООП
 - Знание паттернов проектирования и программирования (понимание, что Active Record - это еще и паттерн, а не только Ruby on Rails gem)
-- Знание java script фреймворков (Angular.js, Ember.js и т.д.)
+- Навыки в JavaScript
+- Знания в MV* JavaScript фреймворках (Angular, React, Ember.js) - плюс
 - Знание SQL и RDBMS (MySQL, PostgreSQL и т.д.)
 - Владение HTML/CSS
-- Опыт работы в команде
-- Английский не ниже уровня Intermediate
-- Образование БГУИР или БГУ будет преимуществом
+- Опыт работы в команде желателен
+- Владение английский языком будет большим плюсом
 
 **Взамен своим сотрудникам мы предлагаем:**
 
