@@ -1,5 +1,5 @@
 ---
-title: "Android Developer"
+title: "Senior Python Developer"
 layout: post
 description: "Itexus ищет опытного Python разработчика!"
 redirect_from: ["/2017/04/30/senior_python_dev_position.html"]
