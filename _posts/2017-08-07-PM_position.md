@@ -1,7 +1,7 @@
 ---
 title: "Project Manager"
 layout: post
-description: "Ищем Project Manager в нашу команду"
+description: "Ищем Project Manager в нашу команду!"
 redirect_from: ["/2017/08/07/PM_position.html"]
 
 ---
